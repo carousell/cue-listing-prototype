@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fprototype\u002Fprofile\u002Fwallet\u002F[id]","\u002Fprototype\u002Fsell-form\u002Fcue-listing\u002F[id]","\u002Fprototype\u002Fsell-form\u002Flisting-success\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
