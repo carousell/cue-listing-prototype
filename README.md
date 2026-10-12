@@ -4,4 +4,6 @@ Clickable prototype of listing on Carousell from Cue (Manus) through a Carousell
 
 **Open it:** https://carousell.github.io/cue-listing-prototype/
 
+**Card design requirements:** https://carousell.github.io/cue-listing-prototype/prototype/sell-form/cue-listing-spec/1/
+
 Use the scenario panel on the right to jump between steps and states. This repo contains built pages only. It's generated from Carousell's internal prototype kit, so don't edit it by hand.
